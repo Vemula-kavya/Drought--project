@@ -1,0 +1,11 @@
+Rainfall_mm,Temperature_C,Soil_Moisture,NDVI,Humidity,Wind_Speed,River_Flow,Elevation_m,Region,Season,ENSO,Drought_Risk
+12,32,0.18,0.21,42,14,102,320,Telangana,Pre-Monsoon,ElNino,High
+85,27,0.62,0.48,71,9,215,280,Maharashtra,Monsoon,Neutral,Low
+45,29,0.4,0.36,60,12,175,300,Karnataka,Post-Monsoon,LaNina,Medium
+10,34,0.15,0.19,38,18,98,400,Andhra Pradesh,Pre-Monsoon,ElNino,High
+90,26,0.65,0.55,75,8,220,290,Gujarat,Monsoon,Neutral,Low
+30,31,0.35,0.28,55,13,150,310,Rajasthan,Post-Monsoon,LaNina,Medium
+60,28,0.55,0.46,65,11,180,305,Madhya Pradesh,Monsoon,Neutral,Low
+15,35,0.2,0.23,40,16,110,330,Tamil Nadu,Pre-Monsoon,ElNino,High
+70,27,0.6,0.5,70,10,200,295,Kerala,Monsoon,Neutral,Low
+25,33,0.25,0.27,45,15,130,315,Odisha,Post-Monsoon,LaNina,Medium
